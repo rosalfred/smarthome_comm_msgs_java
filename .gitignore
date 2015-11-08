@@ -1,0 +1,5 @@
+/bin
+/build
+/.gradle
+/.project
+/rosbuilding_msgs/build/
