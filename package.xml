@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rosbuilding_msgs_java</name>
-  <version>0.1.7</version>
+  <version>0.1.8</version>
   <description>Java generation for rosbuilding_msgs package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
