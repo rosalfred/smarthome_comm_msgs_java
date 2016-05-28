@@ -2,8 +2,8 @@
 Changelog for package building_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.12 (2016-05-29)
+-------------------
 * Update package name
 * Add license
 * Update package file description
