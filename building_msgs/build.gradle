@@ -18,7 +18,7 @@ sourceCompatibility = 1.7
 targetCompatibility = 1.7
 
 try {
-    project.catkin.tree.generateMessageArtifact(project, 'rosbuilding_msgs')
+    project.catkin.tree.generateMessageArtifact(project, 'building_msgs')
 } catch (NullPointerException e) {
     println("Couldn't find rosbuilding_msgs on the ROS_PACKAGE_PATH")
 }
