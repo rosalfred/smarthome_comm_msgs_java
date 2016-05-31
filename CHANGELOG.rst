@@ -1,6 +1,12 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package building_msgs_java
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Changelog for package smarthome_comm_msgs_java
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Forthcoming
+-----------
+* Rename package to smarthome_comm_msgs_java
+* Update catkin dependencies
+* Contributors: Erwan Le Huitouze, Mickael Gaillard
 
 0.1.12 (2016-05-29)
 -------------------
