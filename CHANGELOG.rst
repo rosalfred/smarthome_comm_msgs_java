@@ -2,8 +2,8 @@
 Changelog for package smarthome_comm_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.13 (2016-05-31)
+-------------------
 * Rename package to smarthome_comm_msgs_java
 * Update catkin dependencies
 * Contributors: Erwan Le Huitouze, Mickael Gaillard
