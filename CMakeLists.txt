@@ -3,7 +3,7 @@
 ##############################################################################
 
 cmake_minimum_required(VERSION 2.8.3)
-project(building_msgs_java)
+project(smarthome_comm_msgs_java)
 
 ##############################################################################
 # Catkin
@@ -11,7 +11,7 @@ project(building_msgs_java)
 
 find_package(catkin REQUIRED
     rosjava_build_tools
-    building_msgs)
+    smarthome_comm_msgs)
 
 # Set the gradle targets you want catkin's make to run by default, e.g.
 #   catkin_rosjava_setup(installApp)
@@ -27,5 +27,5 @@ catkin_package()
 
 # Change this to match the maven group name you have specified in the
 # allprojects closure the root build.gradle
-install(DIRECTORY ${CATKIN_DEVEL_PREFIX}/${CATKIN_GLOBAL_MAVEN_DESTINATION}/org/ros/rosjava_messages/building_msgs/
-        DESTINATION ${CATKIN_GLOBAL_MAVEN_DESTINATION}/org/ros/rosjava_messages/building_msgs)
+install(DIRECTORY ${CATKIN_DEVEL_PREFIX}/${CATKIN_GLOBAL_MAVEN_DESTINATION}/org/ros/rosjava_messages/smarthome_comm_msgs/
+        DESTINATION ${CATKIN_GLOBAL_MAVEN_DESTINATION}/org/ros/rosjava_messages/smarthome_comm_msgs)
