@@ -2,6 +2,11 @@
 Changelog for package smarthome_comm_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Change package generation to genjava
+* Contributors: Erwan Le Huitouze
+
 0.1.13 (2016-05-31)
 -------------------
 * Rename package to smarthome_comm_msgs_java
