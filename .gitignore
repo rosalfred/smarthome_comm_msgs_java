@@ -1,4 +1,3 @@
-/bin
-/build
-/.gradle
-/smarthome_comm_msgs/build/
+.gradle
+build
+
