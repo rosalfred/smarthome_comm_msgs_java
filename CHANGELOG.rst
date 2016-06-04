@@ -2,6 +2,12 @@
 Changelog for package smarthome_comm_msgs_java
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add roslib to packages dependencies
+* Add rosjava_messages to packages dependencies
+* Contributors: Erwan Le Huitouze
+
 0.1.14 (2016-06-01)
 -------------------
 * Change package generation to genjava
