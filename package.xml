@@ -4,9 +4,9 @@
   <version>0.1.14</version>
   <description>Java generation for smarthome_comm_msgs package</description>
 
-  <maintainer email="mick.gaillard@gmail.com">Mickaël Gaillard</maintainer>
+  <maintainer email="mick.gaillard@gmail.com">Mickael Gaillard</maintainer>
   <maintainer email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</maintainer>
-  <author email="mick.gaillard@gmail.com">Mickaël Gaillard</author>
+  <author email="mick.gaillard@gmail.com">Mickael Gaillard</author>
   <author email="erwan.lehuitouze@gmail.com">Erwan Le Huitouze</author>
 
   <license>Apache 2.0</license>
@@ -14,8 +14,12 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rosjava_build_tools</build_depend>
   <build_depend>genjava</build_depend>
+  <build_depend>rosjava_messages</build_depend>
   
   <build_depend>smarthome_comm_msgs</build_depend>
+  
+  <!-- needed for genjava rosdistro dependency -->
+  <build_depend>python-rosdistro</build_depend>
   
   <run_depend>rosjava_build_tools</run_depend>
   <run_depend>genjava</run_depend>
